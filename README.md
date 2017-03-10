@@ -1,9 +1,6 @@
 ## Welcome to GitHub Pages
-## Edson Simões Boldrini - Blog
-You can use the [editor on GitHub](https://github.com/edsonsb96/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Seja bem vindo ao meu blog!
-Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas de trabalhos da minha faculdade.
+You can use the [editor on GitHub](https://github.com/edsonsb96/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
