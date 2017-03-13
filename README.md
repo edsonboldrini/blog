@@ -3,6 +3,8 @@
 Seja bem vindo ao meu blog!
 Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas de trabalhos da minha faculdade.<br>
 
+## Postagem 2: Qualidade de Software
+
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema que tem sido frequentemente discutido na esfera de desenvolvimento em TI. Qualidade de software.<br>
 Afinal, o que é Qualidade de software? O que é mais importante na hora de desenvolver? O que são os indicadores e atributos de qualidade?<br>
