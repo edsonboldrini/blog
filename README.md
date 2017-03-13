@@ -5,6 +5,8 @@ Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas 
 
 # [Postagem 2 - Qualidade de Software - 17/03/13](https://github.com/edsonsb96/blog/blob/master/Postagem%202%20-%20Qualidade%20de%20Software.md)
 
+![alt text](https://github.com/edsonsb96/blog/blob/master/ferrari.jpg "Pode um Fusca, ser melhor que uma Ferrari?")
+
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema que tem sido frequentemente discutido na esfera de desenvolvimento em TI. Qualidade de software.<br>
 Afinal, o que é Qualidade de software? O que é mais importante na hora de desenvolver? O que são os indicadores e atributos de qualidade?<br>
