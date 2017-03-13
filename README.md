@@ -3,7 +3,7 @@
 Seja bem vindo ao meu blog!
 Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas de trabalhos da minha faculdade.<br>
 
-# [Postagem 2 - Qualidade de Software] - 17/03/13
+# [Postagem 2 - Qualidade de Software - 17/03/13](https://github.com/edsonsb96/blog/blob/master/Postagem%202%20-%20Qualidade%20de%20Software/Postagem%202%20-%20Qualidade%20de%20Software.md)
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema que tem sido frequentemente discutido na esfera de desenvolvimento em TI. Qualidade de software.<br>
