@@ -6,15 +6,17 @@ Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas 
 # Postagem 6 - Padrões GRASP - 22/04/17
 
 Eae pessoal, tudo bem?<br>
-Hoje falarei sobre um tema bastante polêmico, e que extremamente polarizado. Modelos ricos e modelos anêmicos.<br>
-O que são modelos ricos e anêmicos? Quais as vantagens e desvantagens de cada um? Qual é mais adotado no mercado e porque?<br>
-Esse post foi baseado no [podcast 11 modelo rico e modelo anêmico, da dotNet Arc Cast](http://podcast.dotnetarchitects.net/2010/03/podcast-11-modelo-anemico/), Fique a vontade para opinar com comentários.<br>
+Hoje falarei sobre um tema bem desconhecido dos programadores, mas que na verdade, todos deveriam saber. Padrões GRASP.<br>
+O que é? Para que serve? É um padrão de projeto? Qual a diferença deles para o SOLID? Qual a diferença deles para os padrões de projeto do GoF?<br>
+Esse post foi baseado nas [video aulas do Luiz Borba](https://www.youtube.com/watch?v=IdQjsAcgtNM), Fique a vontade para opinar com comentários.<br>
 
-Modelo rico e modelo anêmico são duas perspectivas muito diferentes, ai está o porquê de serem tão polarizadas. <br>
-Modelo anêmico trata de programas exclusivamente procedurais, ou seja, códigos com bastantes linhas, não há a presença de funções exclusivas, as vezes temos repetição de código e por fim muitas funçoes, dentro de um mesmo programa. Entre as desvantagens, encontramos dificuldade quando vamos fazer mudanças(manutenção) de algum programa; com suas funções colocadas de forma procedural, não conseguimos separar tão bem qual função(método) deve ser usada em qual variável(estrutura, objeto), e assim, quando vamos mudar algo no código, frequentemente temos que mudar uma grande parte das funções em cada simples mudança necessária. Como vantagem, temos o fato de que programação procedural, é bem mais fácil que programação orientada a objetos, esta, necessita de uma maturidade maior da a equipe para que o padrão de projeto não seja afetado(a programação orientada a objetos oferece um leque maior de soluções possíveis para um problma), maturidade essa não tão necessária no modelo anêmico/procedural, facilitando assim uma grande equipe trabalhar num projeto de grande escala.<br>
-Modelos ricos tratam os problemas com mais abstração, ou seja, você não necessita criar um objeto sabendo o que ele vai se tornar, ele pode assumir vários atributos e vários métodos, você trabalha com modelos reais de construção tratando o problema como ele é na vida real(suas características, seus comportamentos e seus estados possíveis). Modelos ricos tendem a separar um programa em vários pedaços e camadas, e assim ele pode ser construido aos poucos enquanto cada parte tem uma pequena independência das demais, o que exige uma maturidade maior de seus progamadores, bem como uma visão mais ampla das relações em que cada parte tem entre si. Como vantagens, podemos citar características como, reutilização de código, polimorfismo, herança etc... todas essas, características exclusivas da programação orientada a objeto, abrindo assim, um grande leque de situações e soluções para um sistema ou problema.<br>
-Sobre o mercado? Há uma grande preferência pelos modelos ricos, já foi citado anteriormente sobre seu leque de soluções e esse é o grande diferencial para as empresas que adotam esse sistema, além de poder trabalhar com objetos de verdade, analizando o problema de forma mais física observando seus atores e comportamentos. Já as empresas que ainda insistem em utilizar o modelo anêmico, em boa parte tem medo de colocar seus funcionários para trabalharem utilizando as diretrizes de um modelo mais complexo, e assim, preferem continuar com seu modelo mais simples, com entendimento mais fácil, porém com manutenção bem mais complicada. <br>
-Termino minha postagem dizendo que os modelos ricos são o presente e o futuro das soluções computacionais, se vc quer ter sucesso em alguma empresa ou quer que a sua empresa tenha mais sucesso, preze pelo modelo rico, pressione seus funcionários a terem um entendimento maior e não se acomodarem com a programação procedural. Costumes mais simples, sempre criam empregados mais acomodados e preguiçosos, o que gera, consequentemente, um rendimento menor.<br>
+Padrões GRASP, como o nome mesmo já diz, são padrões que definem determinadas operações, nesse caso, pode ser escrito como: "É um conjunto de conceitos que ajudam na hora de pensar no design do software, em como suas classes estarão estruturadas e relacionadas, onde cada operação vai ser implementada etc..." <br>
+Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrões Gerais para atribuição de responsabilidade em software), nada mais são do que um conjunto de princípios fundamentais para modelagem de projetos e atribuição de responsabilidade escrito na forma de padrões, sobre esses padrões, existem vários (mais de 7), temos 5 que podemos destacar, são esses: 
+- Information Expert (informação esperta)
+- Creator (criador)
+- Low Coupling (baixo acoplamento)
+- High Cohesion (Alta coesão)
+- Controller (Controlador)
 
 Edson Simões Boldrini<br>
 
