@@ -3,7 +3,7 @@
 Seja bem vindo ao meu blog!
 Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas de trabalhos da minha faculdade.<br>
 
-# Postagem 6 - Padrões GRASP - 22/04/10
+# Postagem 6 - Padrões GRASP - 22/04/17
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema bastante polêmico, e que extremamente polarizado. Modelos ricos e modelos anêmicos.<br>
@@ -18,7 +18,7 @@ Termino minha postagem dizendo que os modelos ricos são o presente e o futuro d
 
 Edson Simões Boldrini<br>
 
-# Postagem 5 - Tema Livre - 15/04/10
+# Postagem 5 - Tema Livre - 15/04/17
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema bastante polêmico, e que extremamente polarizado. Modelos ricos e modelos anêmicos.<br>
@@ -33,7 +33,7 @@ Termino minha postagem dizendo que os modelos ricos são o presente e o futuro d
 
 Edson Simões Boldrini<br>
 
-# Postagem 4 - Qualidade de Software - 08/04/10
+# Postagem 4 - Qualidade de Software - 08/04/17
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema bastante polêmico, e que extremamente polarizado. Modelos ricos e modelos anêmicos.<br>
@@ -48,7 +48,7 @@ Termino minha postagem dizendo que os modelos ricos são o presente e o futuro d
 
 Edson Simões Boldrini<br>
 
-# Postagem 3 - Arquitetura de Software - 29/03/10
+# Postagem 3 - Arquitetura de Software - 29/03/17
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema bastante polêmico, e que extremamente polarizado. Modelos ricos e modelos anêmicos.<br>
@@ -63,7 +63,7 @@ Termino minha postagem dizendo que os modelos ricos são o presente e o futuro d
 
 Edson Simões Boldrini<br>
 
-# Postagem 2 - Qualidade de Software - 17/03/13
+# Postagem 2 - Qualidade de Software - 17/03/17
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema que tem sido frequentemente discutido na esfera de desenvolvimento em TI. Qualidade de software.<br>
@@ -80,7 +80,7 @@ Após essas discussões, podemos ver que qualidade de software não é algo tão
 
 Edson Simões Boldrini<br>
 
-# Postagem 1 - Arquiteto de Software - 06/03/10
+# Postagem 1 - Arquiteto de Software - 06/03/17
 
 Eae pessoal, tudo bem?<br>
 Hoje falarei sobre um tema bastante polêmico, e que extremamente polarizado. Modelos ricos e modelos anêmicos.<br>
