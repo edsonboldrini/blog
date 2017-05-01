@@ -17,6 +17,7 @@ Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrõe
 - Low Coupling (baixo acoplamento) = Atribuir responsabilidades de forma a manter o acoplamento(desnecessário) baixo.
 - High Cohesion (Alta coesão) = Manter os objetos focados, fáceis de entender, gerenciáveis ainda pouco acoplados.
 - Controller (Controlador) = Atribuir responsabilidades a uma classe que represente todo um sistema ou represente os serviços de um módulo ou subsistema. É a classe raiz do sistema/módulo.
+
 Esses princípios formam os padrões que são utilizados na hora de atribuir as responsabilidades sobre cada classe dentro de um projeto maior, formando assim um padrão de projeto, podento até ser usado na maioria dos projetos dentro de uma determinada empresa/organização.<br>
 
 
