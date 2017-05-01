@@ -11,12 +11,15 @@ O que é? Para que serve? É um padrão de projeto? Qual a diferença deles para
 Esse post foi baseado nas [video aulas do Luiz Borba](https://www.youtube.com/watch?v=IdQjsAcgtNM), Fique a vontade para opinar com comentários.<br>
 
 Padrões GRASP, como o nome mesmo já diz, são padrões que definem determinadas operações, nesse caso, pode ser escrito como: "É um conjunto de conceitos que ajudam na hora de pensar no design do software, em como suas classes estarão estruturadas e relacionadas, onde cada operação vai ser implementada etc..." <br>
-Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrões Gerais para atribuição de responsabilidade em software), nada mais são do que um conjunto de princípios fundamentais para modelagem de projetos e atribuição de responsabilidade escrito na forma de padrões, sobre esses padrões, existem vários (mais de 7), temos 5 que podemos destacar, são esses: 
-- Information Expert (informação esperta)
-- Creator (criador)
-- Low Coupling (baixo acoplamento)
-- High Cohesion (Alta coesão)
-- Controller (Controlador)
+Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrões Gerais para atribuição de responsabilidade em software), nada mais são do que um conjunto de princípios fundamentais para modelagem de projetos e atribuição de responsabilidade escrito na forma de padrões(padrões definidos como um par: Problema - Solução), sobre esses padrões, podemos dizer que eles são princípios que você utiliza para definir como atribuir responsabilidades para seus objetos, com isso, existem vários (mais de 7), podemos destacar 5, são esses: <br>
+- Information Expert (informação esperta) = Atribuir responsabilidade a quem tem a informação necessária para realizá-la.
+- Creator (criador) = Definir bem quem deve ser o responsável por criar uma nova Instância de uma classe, mantendo estável grau de acoplamento entre as classes.
+- Low Coupling (baixo acoplamento) = Atribuir responsabilidades de forma a manter o acoplamento(desnecessário) baixo.
+- High Cohesion (Alta coesão) = Manter os objetos focados, fáceis de entender, gerenciáveis ainda pouco acoplados.
+- Controller (Controlador) = Atribuir responsabilidades a uma classe que represente todo um sistema ou represente os serviços de um módulo ou subsistema. É a classe raiz do sistema/módulo.
+Esses princípios formam os padrões que são utilizados na hora de atribuir as responsabilidades sobre cada classe dentro de um projeto maior, formando assim um padrão de projeto, podento até ser usado na maioria dos projetos dentro de uma determinada empresa/organização.<br>
+
+
 
 Edson Simões Boldrini<br>
 
