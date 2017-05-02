@@ -19,8 +19,9 @@ Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrõe
 - Controller (Controlador) = Atribuir responsabilidades a uma classe que represente todo um sistema ou represente os serviços de um módulo ou subsistema. É a classe raiz do sistema/módulo.
 
 Esses princípios formam os padrões que são utilizados na hora de atribuir as responsabilidades sobre cada classe dentro de um projeto maior, formando assim um padrão de projeto, podento até ser usado na maioria dos projetos dentro de uma determinada empresa/organização.<br>
-
-
+Além dos padrões GRASP temos outros padrões de projeto que podem ser usados na programação, 2 exemplos que penso imediatamente aqui são os padrões SOLID e GoF.<br> 
+Entre os padrões GRASP e padrões SOLID podemos afirmar que ambos estão bem relacionados quando tratamos de códigos com alta coesão e baixo acoplamento, porém os padrões SOLID, também tratam de separar interfaces ao máximo(quebrando elas em interfaces menores afim de que os métodos apenas serão usados por quem implementar ela) e criar mais classes e métodos abstratos que podem facilitar a mudança não dolorosa de comportamento de algumas entidades.<br>
+Agora entre os padrões GRASP e GoF.
 
 Edson Simões Boldrini<br>
 
