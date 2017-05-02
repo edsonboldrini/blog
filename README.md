@@ -21,7 +21,8 @@ Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrõe
 Esses princípios formam os padrões que são utilizados na hora de atribuir as responsabilidades sobre cada classe dentro de um projeto maior, formando assim um padrão de projeto, podento até ser usado na maioria dos projetos dentro de uma determinada empresa/organização.<br>
 Além dos padrões GRASP temos outros padrões de projeto que podem ser usados na programação, 2 exemplos que penso imediatamente aqui são os padrões SOLID e GoF.<br> 
 Entre os padrões GRASP e padrões SOLID podemos afirmar que ambos estão bem relacionados quando tratamos de códigos com alta coesão e baixo acoplamento, porém os padrões SOLID, também tratam de separar interfaces ao máximo(quebrando elas em interfaces menores afim de que os métodos apenas serão usados por quem implementar ela) e criar mais classes e métodos abstratos que podem facilitar a mudança não dolorosa de comportamento de algumas entidades.<br>
-Agora entre os padrões GRASP e GoF.
+Agora entre os padrões GRASP e GoF, os padrões GoF são divididos em em 3 tipos de sub padrões: Criação, Estruturais e Comportamentais. Estes tem sub princípios atrelados a eles, porém não vamos analisar tão a fundo essa árvore de princípios hoje, fica para a próxima. Apenas comentando algumas diferenças entre os Padrões GRASP e Gof podemos citar a abstraição do processo de criação de objetos, a criação de novas interfaces com o ituito de adaptar duas interfaces criadas anteriormente(criação de novas classes para adaptar uma interface a outra) e utilização de um algoritmo (comportamento) padrão que deixa as subclasses definirem alguns pontos da execução do algoritmo.<br>
+Até a proxima!!<br>
 
 Edson Simões Boldrini<br>
 
