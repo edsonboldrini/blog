@@ -10,7 +10,11 @@ A disciplina de projeto de sistemas acabou!!!<br>
 Após essas declarações de alívio, irei falar um pouco sobre a disciplina.<br>
 Eae pessoal, tudo bem?<br>
 Esse post foi baseado nas aulas de Projetos de Sistemas ministradas pelo professor Rodrigo Calhau, Fique a vontade para opinar com comentários.<br>
-Vou abordar a disciplina de um modo mais geral e falar sobre a minha experiência de ter feito a matéria.<br>
+Vou abordar a disciplina de um modo mais geral e falar um pouco sobre a minha experiência de ter feito a matéria.<br>
+A disciplina de Projetos de Sistemas, como o nome já diz, trata de projetos, meu curso superior de BSI(Bacharlado em Sistemas de Informação), tem uma grande parte do curso orientada a projetos, afinal quando eu me formar, irei produzir vários projetos nas empresas em que eu trabalharei bem como em meus próprios projetos.<br>
+
+Dentro da disciplina, eu e meus colegas aprendemos como os projetos funcionam de uma forma mais interna, como seui
+ 
 Padrões GRASP, como o nome mesmo já diz, são padrões que definem determinadas operações, nesse caso, pode ser escrito como: "É um conjunto de conceitos que ajudam na hora de pensar no design do software, em como suas classes estarão estruturadas e relacionadas, onde cada operação vai ser implementada etc..." <br>
 Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrões Gerais para atribuição de responsabilidade em software), nada mais são do que um conjunto de princípios fundamentais para modelagem de projetos e atribuição de responsabilidade escrito na forma de padrões(padrões definidos como um par: Problema - Solução), sobre esses padrões, podemos dizer que eles são princípios que você utiliza para definir como atribuir responsabilidades para seus objetos, com isso, existem vários (mais de 7), podemos destacar 5, são esses: <br>
 - Information Expert (informação esperta) = Atribuir responsabilidade a quem tem a informação necessária para realizá-la.
