@@ -3,6 +3,30 @@
 Seja bem vindo ao meu blog!
 Aqui postarei vários textos que gosto e textos sobre as disciplinas e entregas de trabalhos da minha faculdade.<br>
 
+# Postagem 7 - Postagem livre, Projetar pra que? - 08/07/17
+
+ACABOOOUUU!!!<br>
+A disciplina de projeto de sistemas acabou!!!<br>
+Após essas declarações de alívio, irei falar um pouco sobre a disciplina.<br>
+Eae pessoal, tudo bem?<br>
+Esse post foi baseado nas aulas de Projetos de Sistemas ministradas pelo professor Rodrigo Calhau, Fique a vontade para opinar com comentários.<br>
+Vou abordar a disciplina de um modo mais geral e falar sobre a minha experiência de ter feito a matéria.<br>
+Padrões GRASP, como o nome mesmo já diz, são padrões que definem determinadas operações, nesse caso, pode ser escrito como: "É um conjunto de conceitos que ajudam na hora de pensar no design do software, em como suas classes estarão estruturadas e relacionadas, onde cada operação vai ser implementada etc..." <br>
+Os padrões GRASP, General Responsibility Assingnment Software Patterns (Padrões Gerais para atribuição de responsabilidade em software), nada mais são do que um conjunto de princípios fundamentais para modelagem de projetos e atribuição de responsabilidade escrito na forma de padrões(padrões definidos como um par: Problema - Solução), sobre esses padrões, podemos dizer que eles são princípios que você utiliza para definir como atribuir responsabilidades para seus objetos, com isso, existem vários (mais de 7), podemos destacar 5, são esses: <br>
+- Information Expert (informação esperta) = Atribuir responsabilidade a quem tem a informação necessária para realizá-la.
+- Creator (criador) = Definir bem quem deve ser o responsável por criar uma nova Instância de uma classe, mantendo estável grau de acoplamento entre as classes.
+- Low Coupling (baixo acoplamento) = Atribuir responsabilidades de forma a manter o acoplamento(desnecessário) baixo.
+- High Cohesion (Alta coesão) = Manter os objetos focados, fáceis de entender, gerenciáveis ainda pouco acoplados.
+- Controller (Controlador) = Atribuir responsabilidades a uma classe que represente todo um sistema ou represente os serviços de um módulo ou subsistema. É a classe raiz do sistema/módulo.
+
+Esses princípios formam os padrões que são utilizados na hora de atribuir as responsabilidades sobre cada classe dentro de um projeto maior, formando assim um padrão de projeto, podento até ser usado na maioria dos projetos dentro de uma determinada empresa/organização.<br>
+Além dos padrões GRASP temos outros padrões de projeto que podem ser usados na programação, 2 exemplos que penso imediatamente aqui são os padrões SOLID e GoF.<br> 
+Entre os padrões GRASP e padrões SOLID podemos afirmar que ambos estão bem relacionados quando tratamos de códigos com alta coesão e baixo acoplamento, porém os padrões SOLID, também tratam de separar interfaces ao máximo(quebrando elas em interfaces menores afim de que os métodos apenas serão usados por quem implementar ela) e criar mais classes e métodos abstratos que podem facilitar a mudança não dolorosa de comportamento de algumas entidades.<br>
+Agora entre os padrões GRASP e GoF, os padrões GoF são divididos em em 3 tipos de sub padrões: Criação, Estruturais e Comportamentais. Estes tem sub princípios atrelados a eles, porém não vamos analisar tão a fundo essa árvore de princípios hoje, fica para a próxima. Apenas comentando algumas diferenças entre os Padrões GRASP e Gof podemos citar a abstraição do processo de criação de objetos, a criação de novas interfaces com o ituito de adaptar duas interfaces criadas anteriormente(criação de novas classes para adaptar uma interface a outra) e utilização de um algoritmo (comportamento) padrão que deixa as subclasses definirem alguns pontos da execução do algoritmo.<br>
+Até a proxima!!<br>
+
+Edson Simões Boldrini<br>
+
 # Postagem 6 - Padrões GRASP - 22/04/17
 
 Eae pessoal, tudo bem?<br>
